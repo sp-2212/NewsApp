@@ -8,7 +8,6 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import com.example.newsapp.R
-import com.example.newsapp.databinding.FragmentHomeBinding
 import com.example.newsapp.databinding.FragmentTrendingBinding
 
 class TrendingFragment : Fragment() {
